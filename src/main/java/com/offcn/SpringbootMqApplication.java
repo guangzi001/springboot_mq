@@ -10,4 +10,5 @@ public class SpringbootMqApplication {
         SpringApplication.run(SpringbootMqApplication.class, args);
     }
 
+    //新增方法
 }
